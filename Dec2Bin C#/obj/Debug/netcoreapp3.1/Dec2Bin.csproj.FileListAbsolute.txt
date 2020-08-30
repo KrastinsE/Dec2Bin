@@ -1,0 +1,26 @@
+C:\Users\HP\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.exe
+C:\Users\HP\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.deps.json
+C:\Users\HP\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.runtimeconfig.json
+C:\Users\HP\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.runtimeconfig.dev.json
+C:\Users\HP\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.dll
+C:\Users\HP\Dec2Bin\bin\Debug\netcoreapp3.1\Dec2Bin.pdb
+C:\Users\HP\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.csprojAssemblyReference.cache
+C:\Users\HP\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.AssemblyInfoInputs.cache
+C:\Users\HP\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.AssemblyInfo.cs
+C:\Users\HP\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.dll
+C:\Users\HP\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.pdb
+C:\Users\HP\Dec2Bin\obj\Debug\netcoreapp3.1\Dec2Bin.genruntimeconfig.cache
+C:\Users\HP\Dec2Bin\Dec2Bin C#\bin\Debug\netcoreapp3.1\Dec2Bin.exe
+C:\Users\HP\Dec2Bin\Dec2Bin C#\bin\Debug\netcoreapp3.1\Dec2Bin.deps.json
+C:\Users\HP\Dec2Bin\Dec2Bin C#\bin\Debug\netcoreapp3.1\Dec2Bin.runtimeconfig.json
+C:\Users\HP\Dec2Bin\Dec2Bin C#\bin\Debug\netcoreapp3.1\Dec2Bin.runtimeconfig.dev.json
+C:\Users\HP\Dec2Bin\Dec2Bin C#\bin\Debug\netcoreapp3.1\Dec2Bin.dll
+C:\Users\HP\Dec2Bin\Dec2Bin C#\bin\Debug\netcoreapp3.1\Dec2Bin.pdb
+C:\Users\HP\Dec2Bin\Dec2Bin C#\obj\Debug\netcoreapp3.1\Dec2Bin.csprojAssemblyReference.cache
+C:\Users\HP\Dec2Bin\Dec2Bin C#\obj\Debug\netcoreapp3.1\Dec2Bin.AssemblyInfoInputs.cache
+C:\Users\HP\Dec2Bin\Dec2Bin C#\obj\Debug\netcoreapp3.1\Dec2Bin.AssemblyInfo.cs
+C:\Users\HP\Dec2Bin\Dec2Bin C#\obj\Debug\netcoreapp3.1\Dec2Bin.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dec2Bin\Dec2Bin C#\obj\Debug\netcoreapp3.1\Dec2Bin.dll
+C:\Users\HP\Dec2Bin\Dec2Bin C#\obj\Debug\netcoreapp3.1\Dec2Bin.pdb
+C:\Users\HP\Dec2Bin\Dec2Bin C#\obj\Debug\netcoreapp3.1\Dec2Bin.genruntimeconfig.cache
